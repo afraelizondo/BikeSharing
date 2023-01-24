@@ -55,5 +55,5 @@ Due to the work schedule of most of the people, there is more demand for the bik
 ### Future analysis 
 
 For a future analysis other visualizations could be performed to get more data and take further decisions. For example:
-1. 
-2. 
+1. Graphic divided by birth year of the users, so we can know what are the age ranges and pursue marketing campaigns from this data type. 
+2. A heatmap with the start time so the bikes are ready at the stations before the peak hour, avoiding bike mainteinance at those hours. 

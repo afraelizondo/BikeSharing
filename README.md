@@ -53,3 +53,7 @@ so is necessary to have more bikes in downtown in order to meet the service dema
 Due to the work schedule of most of the people, there is more demand for the bikes from 7 to 9 am and from 4 pm and 7 pm Monday thru Friday, unlike the weekend, that has a more constant demand all day, because most of the people is not working and have more time to explore the city. 
 
 ### Future analysis 
+
+For a future analysis other visualizations could be performed to get more data and take further decisions. For example:
+1. 
+2. 

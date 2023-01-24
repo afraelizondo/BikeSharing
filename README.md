@@ -22,7 +22,7 @@ Image 1 represents the users of the month (2,344,224) and is telling there are m
 
 <img width="808" alt="Screen Shot 2023-01-23 at 6 23 52 PM" src="https://user-images.githubusercontent.com/113856917/214187630-41cda65a-ecbb-433e-9ccd-9caa5a53ed27.png">
 
-Image 2 shows the principal starting points: bigger and darker the circle, more users start their ride from there. As we can see there are more rides starting from the center of the city rather than in the outskirts, so is necessary to have more bikes in downtown in order to meet the service demand. 
+Image 2 shows the principal starting points: bigger and darker the circle, more users start their ride from there. As we can see there are more rides starting from the center of the city rather than in the outskirts.
 
 
 <img width="813" alt="Screen Shot 2023-01-23 at 6 24 01 PM" src="https://user-images.githubusercontent.com/113856917/214191647-49c39ee6-bd53-45c4-b45a-5b0fab70e669.png">
@@ -37,5 +37,19 @@ Dividing the trip duration by genre (Male, Female and Unknown) we can assume the
 
 <img width="544" alt="Screen Shot 2023-01-23 at 6 24 19 PM" src="https://user-images.githubusercontent.com/113856917/214191533-75ffc726-d651-48b5-80a2-988754e3c13e.png">
 
-The current heatmap indicates 
+The current heatmap indicates there is more demand of the service early at mornings and after 4 pm during the week, and between 11 am and 6 pm over the weekend.
 
+
+<img width="818" alt="Screen Shot 2023-01-23 at 6 24 48 PM" src="https://user-images.githubusercontent.com/113856917/214192618-ebab206e-0e64-49c5-b12b-f5a4d7370ff4.png">
+
+Again, we can see there is more usage of service before and after work during the week, and there are more Male users in general. 
+
+## Summary 
+
+### Insights 
+
+so is necessary to have more bikes in downtown in order to meet the service demand. 
+
+Due to the work schedule of most of the people, there is more demand for the bikes from 7 to 9 am and from 4 pm and 7 pm Monday thru Friday, unlike the weekend, that has a more constant demand all day, because most of the people is not working and have more time to explore the city. 
+
+### Future analysis 

@@ -17,7 +17,7 @@ Tableau is helpful in many ways, as listed:
 
 <img width="111" alt="Screen Shot 2023-01-23 at 6 22 18 PM" src="https://user-images.githubusercontent.com/113856917/214186061-46b63d82-871e-416d-a975-6ef552e716fd.png">
 
-Image 1 represents the users of the month (2,344,224) and is telling there are more subscribers (1,900,359) than customers (443,865), this could mean people prefer to pay a fixed suscription fee and being able to use the bike whenever they need it, this represents as well, that many of the users live in the city and they are not tourists using the service.
+Image 1 represents the users of the month (2,344,224) and is telling there are more subscribers (1,900,359) than customers (443,865).
 
 
 <img width="808" alt="Screen Shot 2023-01-23 at 6 23 52 PM" src="https://user-images.githubusercontent.com/113856917/214187630-41cda65a-ecbb-433e-9ccd-9caa5a53ed27.png">
@@ -44,16 +44,31 @@ The current heatmap indicates there is more demand of the service early at morni
 
 Again, we can see there is more usage of service before and after work during the week, and there are more Male users in general. 
 
+
+<img width="355" alt="Screen Shot 2023-01-23 at 6 24 57 PM" src="https://user-images.githubusercontent.com/113856917/214195058-5ee9c840-9dae-45c8-a5b6-ac002d8e5e6f.png">
+
+Lastly, this heatmap confirms the male users are the ones using more the service, this shows the fact that female users prefer to use other kind of transportation in this city. 
+
 ## Summary 
 
 ### Insights 
 
-so is necessary to have more bikes in downtown in order to meet the service demand. 
+The pie chart showed there are more subscribers than customers, this could mean people prefer to pay a fixed suscription fee and being able to use the bike whenever they need it, this represents as well, that many of the users live in the city and they are not tourists using the service.
+
+There are more Male users in general, so they represent a high percentage of the potential future users.
+
+Because there is higher quantity of starting points in Downtown, is necessary to have more bikes in that area in order to meet the service demand. 
 
 Due to the work schedule of most of the people, there is more demand for the bikes from 7 to 9 am and from 4 pm and 7 pm Monday thru Friday, unlike the weekend, that has a more constant demand all day, because most of the people is not working and have more time to explore the city. 
 
+Des Moines population is 212,031, if we compare this to New York population; 8.468 millions, then there has to be a data adjustment, the first city represents roughly a 3% of the total of people of NY, and this has to be taken in consideration for the business strategies. 
+
 ### Future analysis 
 
-For a future analysis other visualizations could be performed to get more data and take further decisions. For example:
+For a future analysis other visualizations could be performed to get more data and take further decisions. I would suggest:
 1. Graphic divided by birth year of the users, so we can know what are the age ranges and pursue marketing campaigns from this data type. 
 2. A heatmap with the start time so the bikes are ready at the stations before the peak hour, avoiding bike mainteinance at those hours. 
+
+### Tableau Story
+
+[link to dashboard](https://public.tableau.com/app/profile/afra.ankaret.elizondo.gutierrez/viz/CitiBikeNewYork_16740933990090/CitiBikeNewYork)

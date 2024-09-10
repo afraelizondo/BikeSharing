@@ -45,10 +45,6 @@ The current heatmap indicates there is more demand of the service early at morni
 Again, we can see there is more usage of service before and after work during the week, and there are more Male users in general. 
 
 
-<img width="355" alt="Screen Shot 2023-01-23 at 6 24 57 PM" src="https://user-images.githubusercontent.com/113856917/214195058-5ee9c840-9dae-45c8-a5b6-ac002d8e5e6f.png">
-
-Lastly, this heatmap confirms the male users are the ones using more the service, this shows the fact that female users prefer to use other kind of transportation in this city. 
-
 ## Summary 
 
 ### Insights 
